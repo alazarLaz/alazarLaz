@@ -6,7 +6,7 @@
 ### <div align="center">I'm Alazar, a full-time full-stack developer 👨‍💻 working remotely🚀</div>  
   
 
-- 🌱 I’m currently working @STR-Africa  
+<!-- - 🌱 I’m currently working @STR-Africa   -->
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
